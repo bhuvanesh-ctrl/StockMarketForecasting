@@ -1,6 +1,6 @@
 # README
 
-## Stock Price Prediction Using LSTM
+## Stock Price Forecasting using Deep Learning
 
 This project aims to predict stock prices using a Long Short-Term Memory (LSTM) model. The model is trained and tested on stock data fetched from Yahoo Finance. The primary components include data loading, preprocessing, feature extraction, model building, training, and evaluation.
 
@@ -17,8 +17,8 @@ This project aims to predict stock prices using a Long Short-Term Memory (LSTM) 
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/stock-price-prediction.git
-    cd stock-price-prediction
+    https://github.com/bhuvanesh-ctrl/StockMarketForecasting.git
+    cd StockMarketForecasting
     ```
 
 2. Install the required libraries:
