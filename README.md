@@ -73,14 +73,6 @@ The trained model is evaluated using the test data:
 
 The model evaluation metrics are printed and the predicted vs. observed stock prices are plotted.
 
-### Example Output
-
-```bash
-Root Mean Squared Error on Test Data  : 0.0123
-Mean Absolute Error on Test Data      : 0.0087
-R-squared on Test Data                : 0.9854
-```
-
 ### Visualization
 
 A plot of predicted vs. observed stock prices is displayed, showing the model's performance over time.
