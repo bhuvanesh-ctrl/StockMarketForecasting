@@ -73,10 +73,6 @@ The trained model is evaluated using the test data:
 
 The model evaluation metrics are printed and the predicted vs. observed stock prices are plotted.
 
-### Visualization
-
-A plot of predicted vs. observed stock prices is displayed, showing the model's performance over time.
-
 ---
 
 For further details, refer to the comments in the code and the inline documentation within each class and function.
